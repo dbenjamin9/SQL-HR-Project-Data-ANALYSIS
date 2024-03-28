@@ -15,7 +15,7 @@ This was done on SQL server 2022 involving
 Power BI Desktop
 ![powerbi-1](https://github.com/dbenjamin9/SQL-HR-Project-Data-ANALYSIS/blob/main/scr1.png)
 
-![powerbi-2](https://github.com/kahethu/hr_data/assets/27964625/6fc20ddb-fb5e-4349-bee3-7fe714737d60)
+![powerbi-2](https://github.com/dbenjamin9/SQL-HR-Project-Data-ANALYSIS/blob/main/scr2.png)
 
 
 
